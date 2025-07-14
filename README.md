@@ -58,6 +58,10 @@ I am committed to creating quality technological solutions that meet the needs o
 </a>
 </p>
 
+<p align="center">
+- Around another 450 commits on private accounts -
+</p>
+
 <hr>
 
 <h2 align="center">
