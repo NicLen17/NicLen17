@@ -3,16 +3,15 @@
 </p>
 
 <p align="center">
-Information systems engineering student with 3 years of experience in web development using the MERN
-Stack, working on freelance projects.
+Software developer with 5 years of experience, delivering solutions for entrepreneurs, institutions, and the financial sector. Currently pursuing a degree in Information Systems Engineering and a data science diploma.
 </p>
 
 <p align="center">
-I am committed to creating quality technological solutions that meet the needs of my clients.I have a perfectionist view and I am used to work in a team, always with the aim of achieving any goal set.
+I specialize in creating accessible, interactive and intuitive interfaces with great attention to detail.
 </p>
 
 <p align="center">
-<b>Currently working as a Software Developer at Censys S.A.</b>
+<b>Currently looking for new opportunities</b>
 </p>
 
 <hr>
@@ -59,7 +58,7 @@ I am committed to creating quality technological solutions that meet the needs o
 </p>
 
 <p align="center">
-- Around another 450 commits on private accounts -
+  <b>- Around another 450 commits on private accounts -</b>
 </p>
 
 <hr>
