@@ -58,7 +58,7 @@ I specialize in creating accessible, interactive and intuitive interfaces with g
 </p>
 
 <p align="center">
-  <b>- Around another 450 commits on private accounts -</b>
+  <b>- More contributions in private accounts -</b>
 </p>
 
 <hr>
@@ -74,9 +74,6 @@ I specialize in creating accessible, interactive and intuitive interfaces with g
   <a href="https://www.linkedin.com/in/fabio-ramos-78939a236/" target="_blank">
     <img height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/3813379225" target="_blank">
-    <img height="40px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
 </p>
 
 <hr>
@@ -90,5 +87,5 @@ I specialize in creating accessible, interactive and intuitive interfaces with g
 </p>
 
 <p align="center">
-  <img width="250px"  alt="Night Coding" src="https://img.shields.io/badge/AMD-Radeon_RX_6700XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img width="250px"  alt="Night Coding" src="https://img.shields.io/badge/AMD-Radeon_RX_7900XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
